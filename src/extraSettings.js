@@ -38,7 +38,7 @@ let clickChangeFruit = true;
 let adLink = 'https://www.twitch.tv/jiyu0202';
 
 // 修改网页标题：将 "Happy Jiyu Day" 进行替换
-document.getElementsByTagName("title")[0].innerText = '지유 생일축하해';
+document.getElementsByTagName("title")[0].innerText = '감맹이! 감맹이! 감맹이! 감맹이!';
 
 // 开启选分弹窗：将 false 改为 true
 let selectModal = false;
