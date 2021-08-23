@@ -1,5 +1,5 @@
 # watermelon-game-meang-e
-### https://meang-e-game.netlify.app  
+### https://meang-e-game1.netlify.app  
 뭐? 더 좋은 스트리머 찾아가면 더 좋으니까??  
 이게 말이야방구야ㅠㅠㅠ 제가 본진 두고 어딜 가겠어요ㅠㅜ  
 그런 서터리머는 팬게임으로 혼내드리겠읍니다 거부권은 없읍니다  
